@@ -2,4 +2,15 @@
 div {
     border-style: solid;
     border-width: 5px;
+    padding: 30px;
 }
+
+.Projects {
+    font-size: 35px;
+    text-align: center;
+}
+
+Body {
+    background-image: url("http://newlifegames.com/nlg/Themes/Teknomaxi/images/theme/backdrop.png");
+}
+
