@@ -10,7 +10,7 @@ div {
     text-align: center;
 }
 
-Body {
-    background-image: url("http://newlifegames.com/nlg/Themes/Teknomaxi/images/theme/backdrop.png");
+body {
+    background-image: url("../images/Background.png")
 }
 
