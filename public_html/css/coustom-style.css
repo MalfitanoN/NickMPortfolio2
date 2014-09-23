@@ -11,6 +11,18 @@ div {
 }
 
 body {
-    background-image: url("../images/Background.png")
+    background-image: url("http://newallpaper.com/wp-content/uploads/2014/01/Green-and-Blue-Blur-Background.jpg")
 }
 
+.ABOUT {
+    font-size: 35px;
+    text-align: center;
+}
+
+.Technology {
+    font-size: 35px;
+    text-align: center;
+}
+img {
+    
+}
