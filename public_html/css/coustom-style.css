@@ -11,7 +11,7 @@ div {
 }
 
 body {
-    background-image: url("http://newallpaper.com/wp-content/uploads/2014/01/Green-and-Blue-Blur-Background.jpg")
+    background-image: url("http://shiningstuff.com/wp-content/uploads/2014/06/blurred_00267404.jpg")
 }
 
 .ABOUT {
@@ -23,6 +23,23 @@ body {
     font-size: 35px;
     text-align: center;
 }
+
 img {
-    
+    border: 4px solid blue;
+}
+
+.Header {
+    font-size: 25px;
+    text-align: center; 
+}
+
+a {
+    color: darkblue;
+}
+
+.Header2 {
+    font-size: 25px;
+    border-bottom: 4px solid blue;
+    margin-right: 430px;
+ 
 }
