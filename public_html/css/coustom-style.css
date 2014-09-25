@@ -55,3 +55,7 @@ a {
     margin-right: 550px;
     padding-left: 8px;
 }
+.jumbotron {
+    text-align: center;
+    background-color: #c4e3f3;
+}
