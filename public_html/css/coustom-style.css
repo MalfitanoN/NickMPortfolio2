@@ -1,61 +1,44 @@
-
+/*spacing and grid*/
 div {
     border-style: hidden;
     border-width: 5px;
     padding: 30px;
 }
 
+/*Background picture*/
 body {
     background-image: url("http://shiningstuff.com/wp-content/uploads/2014/06/blurred_00267404.jpg")
 }
 
-
-.Header {
-    font-size: 35px;
-    text-align: center;
-    border-bottom: 4px solid darkblue;
-    margin-right: 450px;
-    margin-left: 450px;
-}
-
+/*all images*/
 img {
     border: 4px solid blue;
 }
 
+/*headers for bootstrap HTML5 and CSS on technology page*/
 .Header3 {
     font-size: 27px;
     margin-left: 480px; 
 }
 
+/*all navagation/links*/
 a {
     color: darkblue;
 }
 
-.Header2 {
-    font-size: 25px;
-    border-bottom: 4px solid blue;
-    margin-right: 450px;
- 
-}
-
+/*Makes all text bigger*/
 .col-xs-9 {
     font-size: 15px;
 }
 
-.Header4{
-    font-size: 25px;
-    border-bottom: 4px solid blue;
-    margin-right: 520px;
- 
-}
-
-.Header5{
-    font-size: 25px;
-    border-bottom: 4px solid blue;
-    margin-right: 550px;
-    padding-left: 8px;
-}
+/*Jumbotron at top of page*/
 .jumbotron {
     text-align: center;
     background-color: #c4e3f3;
 }
+/*top border on moving text at the bottom of the screen*/
+.movingtext {
+    border-top: solid #285e8e;
+    border-width: 3px;
+}
+
