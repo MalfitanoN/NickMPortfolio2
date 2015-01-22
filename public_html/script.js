@@ -1,8 +1,10 @@
+//all the activatting of the functions
 $("document").ready(function(){
+    //main box that is blue
     $(".Main").css("background-color", "blue");
-    
+    //border for the blue box
     $("div:nth-child(1)").css("border-style", "solid");
-    
+    //when you hover over the h1 it changes text
     $("h1").bind("mouseover", mouseOverMe).bind("mouseout", mouseOutMe);
     
     $("h1").bind("click", mouseClick);
