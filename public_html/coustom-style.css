@@ -48,6 +48,7 @@ a {
     font-size: 20px;
 }
 
+/*cursor is activated so when you hover over any of the page it works*/
 html {
 	cursor: url("Pics/mushroom1.png"), default;
 }
